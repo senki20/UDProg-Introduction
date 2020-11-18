@@ -21,14 +21,12 @@ cout << 1234567.89 <<scientific<< "\tScientific"<<endl;
 
 //Random nevek//
 
-    cout <<left<<setw(10) << "Veres" << setw(10) << "Richárd" <<left<< setw(14) << "1234567891" << setw(25) << "veres@sample.com" << endl;
-	cout <<left<<setw(10) << "Kovács"<< setw(10) << " Niki"   <<left<< setw(14) << "1234567891" << setw(25) << "kovacs@sample.com" << endl;
-	cout <<left<<setw(10) << "Szabó" << setw(10) << " Lajos"  <<left<< setw(14) << "1234567891" << setw(25) << "szabo@sample.com" << endl;
-	cout <<left<<setw(10) << "Nagy"  << setw(10) << "Bence"   <<left<< setw(14) << "1234567891" << setw(25) << "nagy@sample.com" << endl;
-	cout <<left<<setw(10) << "Kocsis"<< setw(10) << "Péter"   <<left<< setw(14) << "1234567891" << setw(25) << "kocsis@sample.com" << endl;
-
-
-
+   
+    cout << setw(8) << "Veres" << setw(9) << "Richárd" << setw(14) << "0991188666" << setw(25) << "Veres@asdfghj.com" << endl;
+	cout << setw(8) << "Nagy" << setw(8) << "Laci" << setw(14) << "0662288766" << setw(25) << "nagy@asdfghj.com" << endl;
+	cout << setw(8) << "Szabó" << setw(10) << "András" << setw(14) << "0993388996" << setw(26) << "Szabó@asdfghj.com" << endl;
+	cout << setw(8) << "Stadler" << setw(8) << "Nati" << setw(14) << "0991144666" << setw(25) << "Stadler@asdfghj.com" << endl;
+	cout << setw(8) << "Szabó" << setw(9) << "Peti" << setw(14) << "0661338666" << setw(26) << "Szabó@asdfghj.com" << endl;
 
 
 }
